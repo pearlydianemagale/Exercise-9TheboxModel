@@ -11,15 +11,15 @@
 .pic {border-style: solid;
     
     border-width: 1px;
-    height: 250px;
-    width: 250px;
+    height: 320px;
+    width: 320px;
     text-align: center;
     padding: 10px;
 
 }
 .size {
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
     border-radius: 50%;
 
 }

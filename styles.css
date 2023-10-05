@@ -17,3 +17,9 @@
     padding: 10px;
 
 }
+.size {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+
+}
